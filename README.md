@@ -5,7 +5,7 @@
 
 ### [1강 코틀린에서 변수를 다루는 방법](https://github.com/dmswl0311/inflearn-java-to-kotlin/blob/main/section1/section1-1.md)
 
-### 2강 코틀린에서 null을 다루는 방법
+### [2강 코틀린에서 null을 다루는 방법](https://github.com/dmswl0311/inflearn-java-to-kotlin/blob/main/section1/section1-2.md)
 
 ### 3강 코틀린에서 Type을 다루는 방법
 
