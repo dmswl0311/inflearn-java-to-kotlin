@@ -9,7 +9,7 @@
 
 
 ## section2️⃣ 코틀린에서 코드를 제어하는 방법
-### [5강 코틀린에서 제어문을 다루는 방법](https://github.com/dmswl0311/inflearn-java-to-kotlin/blob/main/section2/section2-1.md)
-### 6강 코틀린에서 반복문을 다루는 방법
+### [5강 코틀린에서 제어문을 다루는 방법](https://github.com/dmswl0311/inflearn-java-to-kotlin/blob/main/section2/section2-5.md)
+### [6강 코틀린에서 반복문을 다루는 방법](https://github.com/dmswl0311/inflearn-java-to-kotlin/blob/main/section2/section2-6.md)
 ### 7강 코틀린에서 예외를 다루는 방법
 ### 8강 코틀린에서 함수를 다루는 방법
